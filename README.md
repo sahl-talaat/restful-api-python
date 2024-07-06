@@ -19,4 +19,4 @@ GET http://localhost:5000/api/v1/todos
 POST http://localhost:5000/api/v1/todos
 GET http://localhost:5000/api/v1/todos/todo_id
 PUT http://localhost:5000/api/v1/todos/todo_id
-DELETE http://localhost:5000/api/v1/todos/todo_id
+DELETE http://localhost:5000/api/v1/todos/todo_id# restful-api-python
